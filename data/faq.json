@@ -1,0 +1,88 @@
+{
+  "faqs": [
+    {
+      "id": "FAQ-01",
+      "category": "shipping",
+      "question": "What are NovaShop's shipping options and delivery timeframes?",
+      "answer": "NovaShop offers Standard Shipping (3-5 business days, free on orders over $50) and Express Shipping (1-2 business days). Orders placed before 2:00 PM EST ship the same business day from our fulfillment centers.",
+      "keywords": ["shipping", "delivery", "timeframes", "how long", "express", "standard", "days"]
+    },
+    {
+      "id": "FAQ-02",
+      "category": "shipping",
+      "question": "How do I track my order or check why my shipment is delayed?",
+      "answer": "Once your order ships, you receive a tracking number for UPS, FedEx, USPS, or DHL. You can provide your 4-digit Order ID (e.g., #1002) to our support agent to look up real-time carrier tracking, estimated arrival dates, and any delay reasons such as weather or customs holds.",
+      "keywords": ["track", "tracking", "where is my order", "status", "delayed", "customs", "carrier"]
+    },
+    {
+      "id": "FAQ-03",
+      "category": "refund",
+      "question": "What is NovaShop's return and refund policy?",
+      "answer": "NovaShop has a strict 30-day return policy starting from the confirmed delivery date. Delivered items returned within 30 days in original condition with all accessories qualify for a 100% full refund and a free prepaid return shipping label. Orders delivered more than 30 days ago (e.g., 31+ days) are not eligible for a refund, though hardware defects are covered under our 1-year warranty.",
+      "keywords": ["return", "refund", "30-day", "30 days", "policy", "eligible", "money back", "window"]
+    },
+    {
+      "id": "FAQ-04",
+      "category": "technical",
+      "question": "What does the 1-Year NovaShop Hardware Warranty cover?",
+      "answer": "Every electronic device purchased from NovaShop includes a 1-Year Limited Hardware Warranty from the delivery date. It covers manufacturing defects, unexpected power failure, dead pixel clusters, and battery health degradation below 80%. Even if your order is outside the 30-day refund window, eligible defective devices qualify for free warranty repair or replacement.",
+      "keywords": ["warranty", "1 year", "one year", "repair", "replacement", "defect", "hardware", "after 30 days"]
+    },
+    {
+      "id": "FAQ-05",
+      "category": "account",
+      "question": "How do I reset my NovaShop account password?",
+      "answer": "To reset your password: 1) Visit the NovaShop Sign-In page and click 'Forgot Password'. 2) Enter your registered account email address. 3) Click the one-time password reset link sent to your email (valid for 15 minutes; check your Spam folder if needed). Support agents will never ask for your current password.",
+      "keywords": ["password", "reset", "forgot password", "login", "sign in", "locked out", "account"]
+    },
+    {
+      "id": "FAQ-06",
+      "category": "shipping",
+      "question": "Can I change my shipping address after placing an order?",
+      "answer": "If your order is still in 'processing' status, our support team can update the delivery address before carrier handoff. Once an order is 'shipped' or in transit, the address cannot be modified directly, though we can request a carrier hold-for-pickup location.",
+      "keywords": ["change address", "wrong address", "shipping address", "update address", "redirect"]
+    },
+    {
+      "id": "FAQ-07",
+      "category": "billing",
+      "question": "What payment methods does NovaShop accept?",
+      "answer": "NovaShop accepts major credit and debit cards (Visa, Mastercard, American Express, Discover), PayPal, Apple Pay, Google Pay, and 0% APR monthly financing on qualifying electronics purchases over $500. For your security, never share full credit card numbers in support tickets.",
+      "keywords": ["payment", "methods", "credit card", "paypal", "apple pay", "financing", "pay"]
+    },
+    {
+      "id": "FAQ-08",
+      "category": "billing",
+      "question": "Why do I see a duplicate charge or pending hold on my statement?",
+      "answer": "When you place an order, your bank may show a temporary pre-authorization hold alongside the settled charge. The temporary authorization hold automatically drops off within 2 to 5 business days. If two settled charges remain after 5 business days, provide your Order ID so billing support can investigate.",
+      "keywords": ["duplicate charge", "charged twice", "double charge", "pending hold", "billing", "statement"]
+    },
+    {
+      "id": "FAQ-09",
+      "category": "billing",
+      "question": "How do I download a tax or VAT invoice for my order?",
+      "answer": "Once your order ships, a downloadable PDF tax invoice is automatically generated in your NovaShop Account under 'Order History > View Invoice'. You can also share your Order ID with support to have a copy emailed to you.",
+      "keywords": ["invoice", "receipt", "tax", "vat", "business", "pdf", "billing"]
+    },
+    {
+      "id": "FAQ-10",
+      "category": "refund",
+      "question": "How do I cancel an order that has not arrived yet?",
+      "answer": "Orders in 'processing' status can be cancelled immediately for a full refund. Orders that have already 'shipped' cannot be cancelled while in transit with the carrier; however, you may refuse delivery upon arrival or initiate a free return within 30 days of delivery.",
+      "keywords": ["cancel", "cancellation", "processing", "stop order", "before shipping"]
+    },
+    {
+      "id": "FAQ-11",
+      "category": "technical",
+      "question": "My device is broken or won't turn on. What troubleshooting steps should I try?",
+      "answer": "First, verify the power cable and wall outlet, charge the device for at least 30 minutes, and hold the power button for 15 seconds to perform a hard reset. When contacting support about a broken item, please provide your 4-digit Order ID and the specific product name so we can check your 30-day return eligibility or 1-year warranty coverage.",
+      "keywords": ["broken", "wont turn on", "not working", "troubleshooting", "defective", "dead", "malfunction", "fix"]
+    },
+    {
+      "id": "FAQ-12",
+      "category": "general",
+      "question": "How do I contact a human support specialist or escalate an urgent issue?",
+      "answer": "Our AI support agent can immediately escalate your ticket to a human specialist upon request, or automatically for urgent issues, complex disputes, safety concerns, or legal inquiries. Tier-2 and Tier-3 specialists respond via email and phone within 15 to 60 minutes depending on priority.",
+      "keywords": ["human", "agent", "manager", "supervisor", "escalate", "person", "phone", "urgent"]
+    }
+  ]
+}

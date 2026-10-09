@@ -1,0 +1,159 @@
+{
+  "orders": [
+    {
+      "order_id": "1001",
+      "customer_name": "Elena Rostova",
+      "status": "processing",
+      "items": [
+        { "sku": "NV-GPU-4080S", "name": "NovaForce RTX 4080 Super 16GB Graphics Card", "qty": 1, "price": 999.0 },
+        { "sku": "NV-PSU-850G", "name": "VoltCore 850W ATX 3.0 Modular Power Supply", "qty": 1, "price": 139.5 }
+      ],
+      "total": 1138.5,
+      "ordered_days_ago": 1,
+      "delivered_days_ago": null,
+      "eta_days_from_now": 4,
+      "carrier": null,
+      "tracking_number": null,
+      "delay_reason": null
+    },
+    {
+      "order_id": "1002",
+      "customer_name": "Marcus Vance",
+      "status": "shipped",
+      "items": [
+        { "sku": "NV-MON-34OLED", "name": "NovaView 34\" Curved QD-OLED 175Hz Ultrawide Monitor", "qty": 1, "price": 799.0 }
+      ],
+      "total": 799.0,
+      "ordered_days_ago": 4,
+      "delivered_days_ago": null,
+      "eta_days_from_now": 2,
+      "carrier": "UPS Express",
+      "tracking_number": "1Z999AA10123456784",
+      "delay_reason": null
+    },
+    {
+      "order_id": "1003",
+      "customer_name": "Priya Patel",
+      "status": "delivered",
+      "items": [
+        { "sku": "NV-AUD-ANC5", "name": "SonicPulse Pro Wireless ANC Headphones", "qty": 1, "price": 299.0 },
+        { "sku": "NV-CAB-TB4", "name": "Braided Thunderbolt 4 Cable (2m)", "qty": 2, "price": 29.0 }
+      ],
+      "total": 357.0,
+      "ordered_days_ago": 14,
+      "delivered_days_ago": 10,
+      "eta_days_from_now": null,
+      "carrier": "FedEx Home Delivery",
+      "tracking_number": "784920194827",
+      "delay_reason": null
+    },
+    {
+      "order_id": "1004",
+      "customer_name": "David Kim",
+      "status": "delivered",
+      "items": [
+        { "sku": "NV-KEY-MECH75", "name": "KeyChronos Pro 75% Hot-Swap Mechanical Keyboard", "qty": 1, "price": 189.0 },
+        { "sku": "NV-MOU-PROX", "name": "AeroGlide Ultralight Wireless Gaming Mouse", "qty": 1, "price": 119.0 }
+      ],
+      "total": 308.0,
+      "ordered_days_ago": 11,
+      "delivered_days_ago": 8,
+      "eta_days_from_now": null,
+      "carrier": "UPS Ground",
+      "tracking_number": "1Z999AA10987654321",
+      "delay_reason": null
+    },
+    {
+      "order_id": "1005",
+      "customer_name": "Hannah Abbott",
+      "status": "delivered",
+      "items": [
+        { "sku": "NV-LAP-AERO16", "name": "NovaBook Aero 16\" (M3 Max / 32GB RAM / 1TB SSD)", "qty": 1, "price": 2199.0 }
+      ],
+      "total": 2199.0,
+      "ordered_days_ago": 68,
+      "delivered_days_ago": 64,
+      "eta_days_from_now": null,
+      "carrier": "FedEx Ground",
+      "tracking_number": "781122334455",
+      "delay_reason": null
+    },
+    {
+      "order_id": "1006",
+      "customer_name": "Sophia Chen",
+      "status": "cancelled",
+      "items": [
+        { "sku": "NV-TAB-PRO12", "name": "NovaSlate 12.9\" OLED Tablet (256GB Wi-Fi)", "qty": 1, "price": 649.0 }
+      ],
+      "total": 649.0,
+      "ordered_days_ago": 6,
+      "delivered_days_ago": null,
+      "eta_days_from_now": null,
+      "carrier": null,
+      "tracking_number": null,
+      "delay_reason": null
+    },
+    {
+      "order_id": "1007",
+      "customer_name": "Liam O'Connor",
+      "status": "delivered",
+      "items": [
+        { "sku": "NV-SSD-2TB", "name": "HyperFlash Gen5 NVMe M.2 2TB Internal SSD", "qty": 1, "price": 229.0 }
+      ],
+      "total": 229.0,
+      "ordered_days_ago": 33,
+      "delivered_days_ago": 29,
+      "eta_days_from_now": null,
+      "carrier": "USPS Priority",
+      "tracking_number": "9405511899561234567890",
+      "delay_reason": null
+    },
+    {
+      "order_id": "1008",
+      "customer_name": "Arthur Pendelton",
+      "status": "delayed",
+      "items": [
+        { "sku": "NV-TV-77OLED", "name": "NovaCinema 77\" 4K 120Hz Master OLED Smart TV", "qty": 1, "price": 2499.0 },
+        { "sku": "NV-SND-ATMOS", "name": "Dolby Atmos 7.1.4 Wireless Soundbar System", "qty": 1, "price": 699.0 }
+      ],
+      "total": 3198.0,
+      "ordered_days_ago": 16,
+      "delivered_days_ago": null,
+      "eta_days_from_now": 5,
+      "carrier": "DHL Express Freight",
+      "tracking_number": "DHL-884920113",
+      "delay_reason": "Customs hold at port of entry awaiting commercial electronics clearance documentation."
+    },
+    {
+      "order_id": "1009",
+      "customer_name": "Carlos Mendez",
+      "status": "shipped",
+      "items": [
+        { "sku": "NV-DRN-SKY4K", "name": "SkyVantage 4K Autonomous Gimbal Drone + FlyMore Kit", "qty": 1, "price": 849.0 }
+      ],
+      "total": 849.0,
+      "ordered_days_ago": 3,
+      "delivered_days_ago": null,
+      "eta_days_from_now": 1,
+      "carrier": "FedEx 2Day",
+      "tracking_number": "789012345670",
+      "delay_reason": null
+    },
+    {
+      "order_id": "1010",
+      "customer_name": "Nadia Al-Mansoor",
+      "status": "delivered",
+      "items": [
+        { "sku": "NV-CAM-MIR4K", "name": "LumixNova S5II Mirrorless 4K60 Camera Body", "qty": 1, "price": 1599.0 },
+        { "sku": "NV-LNS-35MM", "name": "PrimeLens 35mm f/1.4 DG DN Art Lens", "qty": 1, "price": 699.0 }
+      ],
+      "total": 2298.0,
+      "ordered_days_ago": 35,
+      "delivered_days_ago": 31,
+      "eta_days_from_now": null,
+      "carrier": "UPS Express",
+      "tracking_number": "1Z999AA10555666777",
+      "delay_reason": null
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "NovaShop AI Support Agent",
+  "description": "Autonomous customer support agent for NovaShop Electronics featuring ticket classification, policy routing, Gemini function-calling tool loop, structured JSON schema validation, and multi-turn conversation state.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
